@@ -77,3 +77,22 @@ The full analysis was performed using Google Sheets and can be accessed here:
 ---
 
 ## 📁 Project Structure
+my-expenses-data-analysis
+│
+├── data/
+│ └── myExpenses1.csv
+│
+├── analysis/
+│ └── analysis_link.txt
+│
+├── visuals/
+│ ├── Pengeluaran_per_Kategori.png
+│ └── Pengeluaran_per_Hari.png
+│
+└── README.md
+
+---
+
+## 👤 Author
+Created by **Vellysia Nazharina**  
+Informatics Student | Aspiring Data Analyst
