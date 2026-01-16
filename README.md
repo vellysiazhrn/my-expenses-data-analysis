@@ -1,81 +1,34 @@
 # Personal Expense Data Analysis
 
-This project analyzes personal expense data to identify spending patterns based on category and time using Google Sheets.
+Exploratory analysis of personal expense data using Google Sheets to identify spending patterns by category and time.
 
----
-
-## 📌 Objective
-The objective of this project is to explore personal spending behavior by:
-- Identifying the largest spending categories
-- Analyzing spending patterns over time
-- Gaining insights that can help improve personal financial planning
-
----
-
-## 📊 Dataset
-- Source: Personal expense records
-- Format: CSV
-- Main columns:
-  - Transaction Date
-  - Time
-  - Category
-  - Amount
-  - Payment Method
-
-The dataset is stored in the `data/` folder.
-
----
-
-## 🛠 Tools Used
+## Tools
 - Google Sheets
 - Pivot Tables
-- Data Cleaning
-- Data Visualization (Bar & Column Charts)
+- Data Visualization
 
----
+## Key Findings
+- The highest spending category is **alone**
+- Spending peaks on **Sunday**
+- Weekend spending is higher than weekdays
 
-## 🔍 Analysis Performed
+## Visualizations
 
-### 1️⃣ Expense by Category
-- Analyzed total spending across different categories
-- Identified the dominant spending category
-
-**Key finding:**
-- The highest spending category is **alone**, indicating that most expenses were made individually.
+**Expense by Category**
 
 ![Expense by Category](visuals/Pengeluaran-per-Kategori.png)
 
----
-
-### 2️⃣ Expense by Day of the Week
-- Analyzed spending distribution across days in a week
-
-**Key finding:**
-- The highest spending occurs on **Sunday**
-- Spending tends to be higher on weekends compared to weekdays
+**Expense by Day of the Week**
 
 ![Expense by Day](visuals/Pengeluaran-per-Hari.png)
 
----
+## Conclusion
+Personal expenses are dominated by individual spending and tend to increase on weekends.
 
-## 📈 Insights
-- Spending is not evenly distributed across categories or time
-- Individual expenses dominate overall spending
-- Weekend spending is noticeably higher, indicating increased consumption during leisure days
-
----
-
-## ✅ Conclusion
-This analysis shows clear patterns in personal spending behavior, where expenses are dominated by individual activities and tend to increase on weekends. These insights can be useful for better budgeting and financial awareness.
+## Analysis File
+Google Sheets link: *https://docs.google.com/spreadsheets/d/1do6x7poFSmFyqdwEp9Nmq31LpN5Obup4YLKOK_UIqYw/edit?usp=sharing*
 
 ---
-
-## 🔗 Analysis File
-The full analysis was performed using Google Sheets and can be accessed here:  
-👉 *https://docs.google.com/spreadsheets/d/1do6x7poFSmFyqdwEp9Nmq31LpN5Obup4YLKOK_UIqYw/edit?usp=sharing*
-
----
-
-## 👤 Author
-Created by **Vellysia Nazharina**  
+Created by **Vellysia Reva Nazharina**
 Informatics Student | Aspiring Data Analyst
+
